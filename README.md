@@ -18,6 +18,8 @@ https://github.com/hls-fpga-machine-learning/hls4ml
 
 Papers :
 
+https://arxiv.org/pdf/1807.05317.pdf
+
 https://brage.bibsys.no/xmlui/bitstream/handle/11250/2456373/16670_FULLTEXT.pdf
 
 http://cadlab.cs.ucla.edu/~cong/slides/fpga2015_chen.pdf
