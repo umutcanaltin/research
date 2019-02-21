@@ -2,6 +2,8 @@
 Research Project
 
 
+https://github.com/gnawice/mojo-cnn/blob/master/mojo/activation.h
+
 Benzer Çalışmalar :
 
 https://github.com/Xilinx/ml-suite
